@@ -31,7 +31,7 @@ swagger를 사용하기 위한 라이브러리로는 **Springfox**와 **Springdo
 | 개발환경                 |            버전 |
 |:---------------------|--------------:|
 | java                 |           1.8 |
-| Spring Boot          |         2.7.3 |
+| Spring Boot          |         2.7.8 |
 | IDE                  | Intellij IDEA |
 | Swagger              |           1.0 |
 | springdoc-openapi-ui  |         1.7.0 |
